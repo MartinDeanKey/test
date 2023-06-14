@@ -1,0 +1,2 @@
+This is my new test line in text3.txt.
+This is another line in text3.txt.
