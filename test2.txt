@@ -1,3 +1,0 @@
-This is a text line.
-
-I forgot a line in another file.
